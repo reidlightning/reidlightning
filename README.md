@@ -1,6 +1,8 @@
 ## Hi. I'm Reid.
 
-I recently pivoted my career from infrastructure to web dev.  
+- 🎹 Music maker 
+- 🕹 Video game enjoyer
+- 🥾 Hike... hiker
 
 ### At work 
 - Prestashop (PHP)  
@@ -11,7 +13,3 @@ I recently pivoted my career from infrastructure to web dev.
 - Laravel
 - React
 - Ruby on Rails
-### Also:
-- 🎹 Music maker 
-- 🕹 Video game enjoyer
-- 🥾 Hike... hiker
