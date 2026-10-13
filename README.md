@@ -1,15 +1,8 @@
-## Hi. I'm Reid.
+## Reid here
 
+- ⚙️ Full-stack web developer
 - 🎹 Music maker 
 - 🕹 Video game enjoyer
 - 🥾 Hike... hiker
 
-### At work 
-- Prestashop (PHP)  
-- MySQL           
-- jQuery            
-- Bootstrap.css    
-### At home:
-- Laravel
-- React
-- Ruby on Rails
+
